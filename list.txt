@@ -1,0 +1,191 @@
+1;Monaco;159,400
+2;Liechtenstein;139,300
+3;Luxembourg;117,600
+4;Qatar;104,300
+5;Norway;101,400
+6;Switzerland;80,800
+7;United Arab Emirates;70,900
+8;Kuwait;66,500
+9;Australia;65,100
+10;Denmark;58,300
+11;San Marino;57,900
+12;Sweden;57,200
+13;Singapore;54,700
+14;United States;52,800
+15;Canada;52,100
+16;Finland;49,200
+17;Austria;49,100
+18;Netherlands;47,600
+19;Iceland;46,200
+20;Ireland;46,000
+21;Belgium;45,600
+22;Germany;44,300
+23;France;41,700
+24;New Zealand;40,600
+25;Brunei;39,800
+26;United Kingdom;39,600
+27;Japan;38,500
+28;Israel;35,400
+29;Italy;33,600
+30;Spain;28,600
+31;Bahamas;26,200
+32;Oman;26,000
+33;Cyprus;25,200
+34;Saudi Arabia;24,800
+35;Korea, South;24,400
+36;Equatorial Guinea;24,200
+37;Slovenia;22,700
+38;Malta;22,600
+39;Bahrain;22,100
+40;Trinidad and Tobago;22,000
+41;Greece;21,800
+42;Portugal;21,000
+43;Taiwan;20,900
+44;Estonia;18,300
+45;Slovakia;17,700
+46;Chile;17,100
+47;Uruguay;15,800
+48;Latvia;15,400
+49;Lithuania;15,300
+50;Saint Kitts and Nevis;15,000
+51;Barbados;14,700
+52;Russia;14,600
+53;Seychelles;14,000
+54;Antigua and Barbuda;13,500
+55;Croatia;13,400
+56;Poland;13,300
+57;Hungary;13,100
+58;Venezuela;12,900
+59;Kazakhstan;12,700
+60;Gabon;12,200
+61;Libya;11,800
+62;Panama;11,400
+63;Argentina;11,300
+64;Brazil;11,100
+65;Turkey;10,700
+66;Mexico;10,600
+67;Lebanon;10,500
+68;Palau;10,500
+69;Malaysia;10,400
+70;Costa Rica;10,300
+71;Mauritius;9,000
+72;Romania;8,900
+73;Suriname;8,800
+74;Saint Lucia;8,400
+75;Colombia;8,100
+76;Azerbaijan;7,900
+77;Turkmenistan;7,800
+78;Belarus;7,500
+79;Grenada;7,400
+80;Botswana;7,300
+81;Bulgaria;7,300
+82;Saint Vincent and the Grenadines;7,100
+83;China;6,900
+84;Montenegro;6,800
+85;Dominica;6,700
+86;Peru;6,700
+87;Angola;6,600
+88;Iraq;6,600
+89;South Africa;6,600
+90;Cuba;6,500
+91;Serbia;6,000
+92;Ecuador;5,900
+93;Dominican Republic;5,800
+94;Maldives;5,800
+95;Guyana;5,800
+96;Algeria;5,700
+97;Namibia;5,600
+98;Thailand;5,600
+99;Jordan;5,300
+100;Iran;5,200
+101;Timor-Leste;5,200
+102;Macedonia;5,000
+103;Belize;4,900
+104;Jamaica;4,900
+105;Bosnia and Herzegovina;4,800
+106;Fiji;4,700
+107;Paraguay;4,600
+108;Tonga;4,500
+109;Albania;4,400
+110;Tunisia;4,400
+111;El Salvador;4,000
+112;Mongolia;3,900
+113;Ukraine;3,800
+114;Cape Verde;3,700
+115;Guatemala;3,700
+116;Samoa;3,600
+117;Tuvalu;3,600
+118;Georgia;3,600
+119;Indonesia;3,500
+120;Armenia;3,400
+121;Micronesia, Federated States of;3,200
+122;Morocco;3,200
+123;Congo, Republic of the;3,100
+124;Egypt;3,100
+125;Vanuatu;3,100
+126;Sri Lanka;3,000
+127;Bhutan;2,900
+128;Syria;2,900
+129;Bolivia;2,800
+130;Marshall Islands;2,800
+131;Swaziland;2,700
+132;Philippines;2,600
+133;Papua New Guinea;2,500
+134;Honduras;2,200
+135;Moldova;2,200
+136;Uzbekistan;1,900
+137;Nicaragua;1,900
+138;Vietnam;1,900
+139;Djibouti;1,800
+140;Ghana;1,800
+141;Solomon Islands;1,800
+142;Kiribati;1,700
+143;Nigeria;1,700
+144;São Tomé and Príncipe;1,700
+145;Yemen;1,700
+146;Zambia;1,600
+147;Laos;1,500
+148;Sudan;1,500
+149;India;1,500
+150;Côte d'Ivoire;1,300
+151;Kyrgyzstan;1,300
+152;Lesotho;1,300
+153;Pakistan;1,300
+154;Cameroon;1,200
+155;Korea, North;1,200
+156;Mauritania;1,200
+157;Senegal;1,200
+158;Chad;1,200
+159;Cambodia;1,000
+160;Kenya;1,000
+161;Tajikistan;1,000
+162;South Sudan;1,000
+163;Burma;900
+164;Bangladesh;900
+165;Comoros;900
+166;Benin;800
+167;Haiti;800
+168;Sierra Leone;800
+169;Zimbabwe;800
+170;Afghanistan;700
+171;Burkina Faso;700
+172;Mali;700
+173;Tanzania;700
+174;Guinea;600
+175;Mozambique;600
+176;Nepal;600
+177;Somalia;600
+178;Rwanda;600
+179;Eritrea;500
+180;Gambia;500
+181;Guinea-Bissau;500
+182;Togo;500
+183;Uganda;500
+184;Central African Republic;400
+185;Ethiopia;400
+186;Madagascar;400
+187;Niger;400
+188;Liberia;400
+189;Burundi;300
+190;Congo, Democratic Republic of the;300
+191;Malawi;300
